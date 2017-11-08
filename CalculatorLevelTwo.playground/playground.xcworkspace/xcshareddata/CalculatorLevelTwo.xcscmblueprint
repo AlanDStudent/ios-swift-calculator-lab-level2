@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "ACBB261536F8B09017F921177CE644BC4C666B45+++1AC9D2B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "ACBB261536F8B09017F921177CE644BC4C666B45+++1AC9D2B" : 9223372036854775807,
+    "ACBB261536F8B09017F921177CE644BC4C666B45+++FC44B6C" : 9223372036854775807,
+    "ACBB261536F8B09017F921177CE644BC4C666B45+++A13DE33" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F809DA4F-F63E-4F19-A535-40F434DF1767",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "ACBB261536F8B09017F921177CE644BC4C666B45+++1AC9D2B" : "ios-swift-calculator-lab-level2\/",
+    "ACBB261536F8B09017F921177CE644BC4C666B45+++FC44B6C" : "",
+    "ACBB261536F8B09017F921177CE644BC4C666B45+++A13DE33" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CalculatorLevelTwo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CalculatorLevelTwo.playground",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/AlanDStudent\/ios-swift-calculator-lab-level2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ACBB261536F8B09017F921177CE644BC4C666B45+++1AC9D2B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/AlanDStudent\/ios-swift-calculator-lab-level2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ACBB261536F8B09017F921177CE644BC4C666B45+++A13DE33"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/upperlinecode\/ios-swift-calculator-lab-level2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ACBB261536F8B09017F921177CE644BC4C666B45+++FC44B6C"
+    }
+  ]
+}
